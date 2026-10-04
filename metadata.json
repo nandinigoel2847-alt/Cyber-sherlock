@@ -1,0 +1,6 @@
+{
+  "name": "Cyber-Sherlock",
+  "description": "AI-Assisted Cyber Incident Investigation Platform that transforms raw security logs into explainable attack stories, interactive graphs, evidence trails, next-stage predictions, and what-if containment simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
